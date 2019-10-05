@@ -1,0 +1,3 @@
+micronaut:
+  application:
+    name: realstate-places-loc-svc
